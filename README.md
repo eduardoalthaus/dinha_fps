@@ -1,2 +1,2 @@
-# dinha_fps
-Official repository of Dinha's Twitch channel.
+# mandyfps
+Official repository of Mandy's Twitch channel.
